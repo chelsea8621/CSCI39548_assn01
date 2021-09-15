@@ -4,8 +4,16 @@ body {
     text-align: center;
 }
 
+body.exhibit-page {
+    background-color: wheat;
+}
+
 a {
     text-decoration: underline;
     color: purple;
     padding: 15px;
+}
+
+#description {
+    color: black;
 }
