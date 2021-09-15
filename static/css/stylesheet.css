@@ -1,0 +1,11 @@
+body {
+    font-family: "Futura", sans-serif;
+    background-color: azure;
+    text-align: center;
+}
+
+a {
+    text-decoration: underline;
+    color: purple;
+    padding: 15px;
+}
